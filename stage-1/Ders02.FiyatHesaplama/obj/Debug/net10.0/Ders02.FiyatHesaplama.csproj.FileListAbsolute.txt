@@ -1,0 +1,15 @@
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders02.FiyatHesaplama/bin/Debug/net10.0/Ders02.FiyatHesaplama
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders02.FiyatHesaplama/bin/Debug/net10.0/Ders02.FiyatHesaplama.deps.json
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders02.FiyatHesaplama/bin/Debug/net10.0/Ders02.FiyatHesaplama.runtimeconfig.json
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders02.FiyatHesaplama/bin/Debug/net10.0/Ders02.FiyatHesaplama.dll
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders02.FiyatHesaplama/bin/Debug/net10.0/Ders02.FiyatHesaplama.pdb
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders02.FiyatHesaplama/obj/Debug/net10.0/Ders02.FiyatHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders02.FiyatHesaplama/obj/Debug/net10.0/Ders02.FiyatHesaplama.AssemblyInfoInputs.cache
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders02.FiyatHesaplama/obj/Debug/net10.0/Ders02.FiyatHesaplama.AssemblyInfo.cs
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders02.FiyatHesaplama/obj/Debug/net10.0/Ders02.FiyatHesaplama.csproj.CoreCompileInputs.cache
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders02.FiyatHesaplama/obj/Debug/net10.0/Ders02.FiyatHesaplama.sourcelink.json
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders02.FiyatHesaplama/obj/Debug/net10.0/Ders02.FiyatHesaplama.dll
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders02.FiyatHesaplama/obj/Debug/net10.0/refint/Ders02.FiyatHesaplama.dll
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders02.FiyatHesaplama/obj/Debug/net10.0/Ders02.FiyatHesaplama.pdb
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders02.FiyatHesaplama/obj/Debug/net10.0/Ders02.FiyatHesaplama.genruntimeconfig.cache
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders02.FiyatHesaplama/obj/Debug/net10.0/ref/Ders02.FiyatHesaplama.dll
