@@ -1,70 +1,112 @@
 ﻿Console.Write("Adınızı giriniz: ");
 string? ad = Console.ReadLine();
 
-Console.Write("Paket Ağırlığını (kg) giriniz: ");
-if(!decimal.TryParse(Console.ReadLine(), out decimal agirlik))
+Console.Write("Paket ağırlığını (kg) giriniz: ");
+
+if (!decimal.TryParse(Console.ReadLine(), out decimal agirlik))
 {
     Console.WriteLine("Geçersiz ağırlık girdiniz.");
     return;
 }
 
+if (agirlik <= 0)
+{
+    Console.WriteLine("Ağırlık sıfırdan büyük olmalıdır.");
+    return;
+}
+
+Console.WriteLine();
 Console.WriteLine("E - Ekonomik: 80 TL");
 Console.WriteLine("S - Standart: 120 TL");
 Console.WriteLine("H - Hızlı: 200 TL");
 Console.Write("Teslimat türünü giriniz (E/S/H): ");
-string? teslimatTuru = Console.ReadLine()?.Trim().ToUpperInvariant() ?? "";
 
-decimal teslimatUcreti = teslimatTuru switch
+string teslimatKodu =
+    Console.ReadLine()?.Trim().ToUpperInvariant() ?? "";
+
+string teslimatTuru;
+decimal temelUcret;
+
+switch (teslimatKodu)
 {
-    "E" => 80,
-    "S" => 120,
-    "H" => 200,
-    _ => throw new ArgumentException("Geçersiz teslimat türü") // Geçersiz teslimat türü
-};
+    case "E":
+        teslimatTuru = "Ekonomik";
+        temelUcret = 80m;
+        break;
 
-Console.Write("Üyelik Durumu (Evet/Hayır): ");
-string? uyelikDurumu = Console.ReadLine()?.Trim().ToUpperInvariant() ?? "";
+    case "S":
+        teslimatTuru = "Standart";
+        temelUcret = 120m;
+        break;
 
-decimal agirlikEkUcreti = 0;
+    case "H":
+        teslimatTuru = "Hızlı";
+        temelUcret = 200m;
+        break;
 
-if (agirlik <= 0)
+    default:
+        Console.WriteLine("Geçersiz teslimat türü girdiniz.");
+        return;
+}
+
+Console.Write("Üye misiniz? (E/H): ");
+
+string uyelikCevabi =
+    Console.ReadLine()?.Trim().ToUpperInvariant() ?? "";
+
+if (uyelikCevabi != "E" && uyelikCevabi != "H")
 {
-    Console.WriteLine("Ağırlık 0 kg veya daha az olamaz.");
+    Console.WriteLine("Üyelik durumu için yalnızca E veya H giriniz.");
     return;
 }
-else if (agirlik <= 1)
+
+bool uyeMi = uyelikCevabi == "E";
+
+decimal agirlikEkUcreti;
+
+if (agirlik <= 1)
 {
-    agirlikEkUcreti = 0;
+    agirlikEkUcreti = 0m;
 }
 else if (agirlik <= 5)
 {
-    agirlikEkUcreti = teslimatUcreti * 0.2m; // 1-5 kg arası paketler için teslimat ücretinin %20'si
+    agirlikEkUcreti = temelUcret * 0.20m;
 }
 else if (agirlik <= 10)
 {
-    agirlikEkUcreti = teslimatUcreti * 0.4m; // 5-10 kg arası paketler için teslimat ücretinin %40'si
+    agirlikEkUcreti = temelUcret * 0.40m;
 }
 else
 {
-    agirlikEkUcreti = teslimatUcreti * 0.75m; // 10 kg üzeri paketler için teslimat ücretinin %75'i
+    agirlikEkUcreti = temelUcret * 0.75m;
 }
 
-decimal uyelikIndirimi = uyelikDurumu == "EVET" ? 0.1m : 0; // Üyelik varsa %10 indirim
+decimal araToplam =
+    temelUcret + agirlikEkUcreti;
 
-decimal toplamUcret = teslimatUcreti + agirlikEkUcreti;
-decimal indirimliUcret = toplamUcret * (1 - uyelikIndirimi);
+decimal uyelikIndirimOrani = 0m;
+
+if (uyeMi)
+{
+    uyelikIndirimOrani = 0.10m;
+}
+
+decimal uyelikIndirimTutari =
+    araToplam * uyelikIndirimOrani;
+
+decimal odenecekToplam =
+    araToplam - uyelikIndirimTutari;
 
 Console.WriteLine();
-
-Console.WriteLine("======= Kargo Özetiniz =======");
-Console.WriteLine($"Ad: {ad}");
-Console.WriteLine($"Paket Ağırlığı: {agirlik} kg");
-Console.WriteLine($"Teslimat Türü: {teslimatTuru}");
-Console.WriteLine($"Teslimat Ücreti: {teslimatUcreti:F2} TL");
-Console.WriteLine($"Ağırlık Ek Ücreti: {agirlikEkUcreti:F2} TL");
-Console.WriteLine($"Ara Toplam: {toplamUcret:F2} TL");
-if (uyelikIndirimi > 0)
-{
-    Console.WriteLine($"Üyelik İndirimi: {uyelikIndirimi * 100}%");
-}
-Console.WriteLine($"Toplam Ücret: {indirimliUcret:F2} TL");
+Console.WriteLine("======= Kargo Özeti =======");
+Console.WriteLine($"Müşteri: {ad}");
+Console.WriteLine($"Paket ağırlığı: {agirlik:F2} kg");
+Console.WriteLine($"Teslimat türü: {teslimatTuru}");
+Console.WriteLine($"Üyelik durumu: {(uyeMi ? "Üye" : "Üye değil")}");
+Console.WriteLine($"Temel ücret: {temelUcret:F2} TL");
+Console.WriteLine($"Ağırlık ek ücreti: {agirlikEkUcreti:F2} TL");
+Console.WriteLine($"Ara toplam: {araToplam:F2} TL");
+Console.WriteLine(
+    $"Üyelik indirimi: {uyelikIndirimTutari:F2} TL"
+);
+Console.WriteLine($"Ödenecek toplam: {odenecekToplam:F2} TL");
