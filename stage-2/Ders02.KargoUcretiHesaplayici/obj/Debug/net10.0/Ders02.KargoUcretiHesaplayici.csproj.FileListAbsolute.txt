@@ -1,0 +1,15 @@
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders02.KargoUcretiHesaplayici/bin/Debug/net10.0/Ders02.KargoUcretiHesaplayici
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders02.KargoUcretiHesaplayici/bin/Debug/net10.0/Ders02.KargoUcretiHesaplayici.deps.json
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders02.KargoUcretiHesaplayici/bin/Debug/net10.0/Ders02.KargoUcretiHesaplayici.runtimeconfig.json
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders02.KargoUcretiHesaplayici/bin/Debug/net10.0/Ders02.KargoUcretiHesaplayici.dll
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders02.KargoUcretiHesaplayici/bin/Debug/net10.0/Ders02.KargoUcretiHesaplayici.pdb
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders02.KargoUcretiHesaplayici/obj/Debug/net10.0/Ders02.KargoUcretiHesaplayici.GeneratedMSBuildEditorConfig.editorconfig
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders02.KargoUcretiHesaplayici/obj/Debug/net10.0/Ders02.KargoUcretiHesaplayici.AssemblyInfoInputs.cache
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders02.KargoUcretiHesaplayici/obj/Debug/net10.0/Ders02.KargoUcretiHesaplayici.AssemblyInfo.cs
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders02.KargoUcretiHesaplayici/obj/Debug/net10.0/Ders02.KargoUcretiHesaplayici.csproj.CoreCompileInputs.cache
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders02.KargoUcretiHesaplayici/obj/Debug/net10.0/Ders02.KargoUcretiHesaplayici.sourcelink.json
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders02.KargoUcretiHesaplayici/obj/Debug/net10.0/Ders02.KargoUcretiHesaplayici.dll
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders02.KargoUcretiHesaplayici/obj/Debug/net10.0/refint/Ders02.KargoUcretiHesaplayici.dll
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders02.KargoUcretiHesaplayici/obj/Debug/net10.0/Ders02.KargoUcretiHesaplayici.pdb
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders02.KargoUcretiHesaplayici/obj/Debug/net10.0/Ders02.KargoUcretiHesaplayici.genruntimeconfig.cache
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders02.KargoUcretiHesaplayici/obj/Debug/net10.0/ref/Ders02.KargoUcretiHesaplayici.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Ders02.KargoUcretiHesaplayici/1.0.0": {
+        "runtime": {
+          "Ders02.KargoUcretiHesaplayici.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ders02.KargoUcretiHesaplayici/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
