@@ -1,0 +1,15 @@
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders03.EtkinlikMaliyetHesaplama/bin/Debug/net10.0/Ders03.EtkinlikMaliyetHesaplama
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders03.EtkinlikMaliyetHesaplama/bin/Debug/net10.0/Ders03.EtkinlikMaliyetHesaplama.deps.json
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders03.EtkinlikMaliyetHesaplama/bin/Debug/net10.0/Ders03.EtkinlikMaliyetHesaplama.runtimeconfig.json
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders03.EtkinlikMaliyetHesaplama/bin/Debug/net10.0/Ders03.EtkinlikMaliyetHesaplama.dll
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders03.EtkinlikMaliyetHesaplama/bin/Debug/net10.0/Ders03.EtkinlikMaliyetHesaplama.pdb
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders03.EtkinlikMaliyetHesaplama/obj/Debug/net10.0/Ders03.EtkinlikMaliyetHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders03.EtkinlikMaliyetHesaplama/obj/Debug/net10.0/Ders03.EtkinlikMaliyetHesaplama.AssemblyInfoInputs.cache
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders03.EtkinlikMaliyetHesaplama/obj/Debug/net10.0/Ders03.EtkinlikMaliyetHesaplama.AssemblyInfo.cs
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders03.EtkinlikMaliyetHesaplama/obj/Debug/net10.0/Ders03.EtkinlikMaliyetHesaplama.csproj.CoreCompileInputs.cache
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders03.EtkinlikMaliyetHesaplama/obj/Debug/net10.0/Ders03.EtkinlikMaliyetHesaplama.sourcelink.json
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders03.EtkinlikMaliyetHesaplama/obj/Debug/net10.0/Ders03.EtkinlikMaliyetHesaplama.dll
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders03.EtkinlikMaliyetHesaplama/obj/Debug/net10.0/refint/Ders03.EtkinlikMaliyetHesaplama.dll
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders03.EtkinlikMaliyetHesaplama/obj/Debug/net10.0/Ders03.EtkinlikMaliyetHesaplama.pdb
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders03.EtkinlikMaliyetHesaplama/obj/Debug/net10.0/Ders03.EtkinlikMaliyetHesaplama.genruntimeconfig.cache
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders03.EtkinlikMaliyetHesaplama/obj/Debug/net10.0/ref/Ders03.EtkinlikMaliyetHesaplama.dll
