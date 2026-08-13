@@ -1,0 +1,15 @@
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders01.SinemaBiletiFiyatlandirma/bin/Debug/net10.0/Ders01.SinemaBiletiFiyatlandirma
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders01.SinemaBiletiFiyatlandirma/bin/Debug/net10.0/Ders01.SinemaBiletiFiyatlandirma.deps.json
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders01.SinemaBiletiFiyatlandirma/bin/Debug/net10.0/Ders01.SinemaBiletiFiyatlandirma.runtimeconfig.json
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders01.SinemaBiletiFiyatlandirma/bin/Debug/net10.0/Ders01.SinemaBiletiFiyatlandirma.dll
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders01.SinemaBiletiFiyatlandirma/bin/Debug/net10.0/Ders01.SinemaBiletiFiyatlandirma.pdb
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders01.SinemaBiletiFiyatlandirma/obj/Debug/net10.0/Ders01.SinemaBiletiFiyatlandirma.GeneratedMSBuildEditorConfig.editorconfig
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders01.SinemaBiletiFiyatlandirma/obj/Debug/net10.0/Ders01.SinemaBiletiFiyatlandirma.AssemblyInfoInputs.cache
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders01.SinemaBiletiFiyatlandirma/obj/Debug/net10.0/Ders01.SinemaBiletiFiyatlandirma.AssemblyInfo.cs
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders01.SinemaBiletiFiyatlandirma/obj/Debug/net10.0/Ders01.SinemaBiletiFiyatlandirma.csproj.CoreCompileInputs.cache
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders01.SinemaBiletiFiyatlandirma/obj/Debug/net10.0/Ders01.SinemaBiletiFiyatlandirma.sourcelink.json
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders01.SinemaBiletiFiyatlandirma/obj/Debug/net10.0/Ders01.SinemaBiletiFiyatlandirma.dll
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders01.SinemaBiletiFiyatlandirma/obj/Debug/net10.0/refint/Ders01.SinemaBiletiFiyatlandirma.dll
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders01.SinemaBiletiFiyatlandirma/obj/Debug/net10.0/Ders01.SinemaBiletiFiyatlandirma.pdb
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders01.SinemaBiletiFiyatlandirma/obj/Debug/net10.0/Ders01.SinemaBiletiFiyatlandirma.genruntimeconfig.cache
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders01.SinemaBiletiFiyatlandirma/obj/Debug/net10.0/ref/Ders01.SinemaBiletiFiyatlandirma.dll
