@@ -1,0 +1,14 @@
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders01.IlkProgram/bin/Debug/net10.0/Ders01.IlkProgram
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders01.IlkProgram/bin/Debug/net10.0/Ders01.IlkProgram.deps.json
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders01.IlkProgram/bin/Debug/net10.0/Ders01.IlkProgram.runtimeconfig.json
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders01.IlkProgram/bin/Debug/net10.0/Ders01.IlkProgram.dll
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders01.IlkProgram/bin/Debug/net10.0/Ders01.IlkProgram.pdb
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders01.IlkProgram/obj/Debug/net10.0/Ders01.IlkProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders01.IlkProgram/obj/Debug/net10.0/Ders01.IlkProgram.AssemblyInfoInputs.cache
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders01.IlkProgram/obj/Debug/net10.0/Ders01.IlkProgram.AssemblyInfo.cs
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders01.IlkProgram/obj/Debug/net10.0/Ders01.IlkProgram.csproj.CoreCompileInputs.cache
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders01.IlkProgram/obj/Debug/net10.0/Ders01.IlkProgram.dll
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders01.IlkProgram/obj/Debug/net10.0/refint/Ders01.IlkProgram.dll
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders01.IlkProgram/obj/Debug/net10.0/Ders01.IlkProgram.pdb
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders01.IlkProgram/obj/Debug/net10.0/Ders01.IlkProgram.genruntimeconfig.cache
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-1/Ders01.IlkProgram/obj/Debug/net10.0/ref/Ders01.IlkProgram.dll
