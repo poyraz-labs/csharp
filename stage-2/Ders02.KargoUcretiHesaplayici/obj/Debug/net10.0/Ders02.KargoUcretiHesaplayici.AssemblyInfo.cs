@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ders02.KargoUcretiHesaplayici")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3f0e00fd0fe295cd2a09d51487d2cd8103aa472")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2280c285a1eff47c0aba33f9cc930ce7bb61ba05")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ders02.KargoUcretiHesaplayici")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ders02.KargoUcretiHesaplayici")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

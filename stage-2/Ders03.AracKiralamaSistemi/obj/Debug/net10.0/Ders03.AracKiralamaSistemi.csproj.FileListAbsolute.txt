@@ -1,0 +1,15 @@
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders03.AracKiralamaSistemi/bin/Debug/net10.0/Ders03.AracKiralamaSistemi
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders03.AracKiralamaSistemi/bin/Debug/net10.0/Ders03.AracKiralamaSistemi.deps.json
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders03.AracKiralamaSistemi/bin/Debug/net10.0/Ders03.AracKiralamaSistemi.runtimeconfig.json
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders03.AracKiralamaSistemi/bin/Debug/net10.0/Ders03.AracKiralamaSistemi.dll
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders03.AracKiralamaSistemi/bin/Debug/net10.0/Ders03.AracKiralamaSistemi.pdb
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders03.AracKiralamaSistemi/obj/Debug/net10.0/Ders03.AracKiralamaSistemi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders03.AracKiralamaSistemi/obj/Debug/net10.0/Ders03.AracKiralamaSistemi.AssemblyInfoInputs.cache
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders03.AracKiralamaSistemi/obj/Debug/net10.0/Ders03.AracKiralamaSistemi.AssemblyInfo.cs
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders03.AracKiralamaSistemi/obj/Debug/net10.0/Ders03.AracKiralamaSistemi.csproj.CoreCompileInputs.cache
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders03.AracKiralamaSistemi/obj/Debug/net10.0/Ders03.AracKiralamaSistemi.sourcelink.json
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders03.AracKiralamaSistemi/obj/Debug/net10.0/Ders03.AracKiralamaSistemi.dll
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders03.AracKiralamaSistemi/obj/Debug/net10.0/refint/Ders03.AracKiralamaSistemi.dll
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders03.AracKiralamaSistemi/obj/Debug/net10.0/Ders03.AracKiralamaSistemi.pdb
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders03.AracKiralamaSistemi/obj/Debug/net10.0/Ders03.AracKiralamaSistemi.genruntimeconfig.cache
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-2/Ders03.AracKiralamaSistemi/obj/Debug/net10.0/ref/Ders03.AracKiralamaSistemi.dll
