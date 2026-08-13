@@ -1,7 +1,7 @@
 ﻿Console.Write("Kullanıcı adınızı giriniz: ");
 string? kullaniciAdi = Console.ReadLine();
 
-Console.Write("Hangi şehire seyehat etmek istiyorsunuz? ");
+Console.Write("Hangi şehire seyahat etmek istiyorsunuz? ");
 string? sehir = Console.ReadLine();
 
 Console.Write("Kaç gün seyahat edeceksiniz? ");
@@ -18,10 +18,10 @@ decimal toplamYemekUcreti = yemekUcreti * gun;
 decimal toplamUcret = toplamKonaklamaUcreti + toplamYemekUcreti;
 
 Console.WriteLine();
-Console.WriteLine($"========Seyehat Bilgileri========");
+Console.WriteLine($"========Seyahat Bilgileri========");
 Console.WriteLine($"Kullanıcı Adı: {kullaniciAdi}");
-Console.WriteLine($"Seyehat Edilecek Şehir: {sehir}");
-Console.WriteLine($"Seyehat Süresi: {gun} gün");
+Console.WriteLine($"seyahat Edilecek Şehir: {sehir}");
+Console.WriteLine($"seyahat Süresi: {gun} gün");
 Console.WriteLine($"Toplam konaklama ücreti: {toplamKonaklamaUcreti:F2}");
 Console.WriteLine($"Toplam yemek ücreti: {toplamYemekUcreti:F2}");
 Console.WriteLine($"Toplam ücret: {toplamUcret:F2}");
