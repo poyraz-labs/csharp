@@ -1,0 +1,15 @@
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders02.ATM/bin/Debug/net10.0/Ders02.ATM
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders02.ATM/bin/Debug/net10.0/Ders02.ATM.deps.json
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders02.ATM/bin/Debug/net10.0/Ders02.ATM.runtimeconfig.json
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders02.ATM/bin/Debug/net10.0/Ders02.ATM.dll
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders02.ATM/bin/Debug/net10.0/Ders02.ATM.pdb
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders02.ATM/obj/Debug/net10.0/Ders02.ATM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders02.ATM/obj/Debug/net10.0/Ders02.ATM.AssemblyInfoInputs.cache
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders02.ATM/obj/Debug/net10.0/Ders02.ATM.AssemblyInfo.cs
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders02.ATM/obj/Debug/net10.0/Ders02.ATM.csproj.CoreCompileInputs.cache
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders02.ATM/obj/Debug/net10.0/Ders02.ATM.sourcelink.json
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders02.ATM/obj/Debug/net10.0/Ders02.ATM.dll
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders02.ATM/obj/Debug/net10.0/refint/Ders02.ATM.dll
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders02.ATM/obj/Debug/net10.0/Ders02.ATM.pdb
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders02.ATM/obj/Debug/net10.0/Ders02.ATM.genruntimeconfig.cache
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders02.ATM/obj/Debug/net10.0/ref/Ders02.ATM.dll
