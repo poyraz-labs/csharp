@@ -1,0 +1,15 @@
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders01.GunlukHarcamaTakipcisi/bin/Debug/net10.0/Ders01.GunlukHarcamaTakipcisi
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders01.GunlukHarcamaTakipcisi/bin/Debug/net10.0/Ders01.GunlukHarcamaTakipcisi.deps.json
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders01.GunlukHarcamaTakipcisi/bin/Debug/net10.0/Ders01.GunlukHarcamaTakipcisi.runtimeconfig.json
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders01.GunlukHarcamaTakipcisi/bin/Debug/net10.0/Ders01.GunlukHarcamaTakipcisi.dll
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders01.GunlukHarcamaTakipcisi/bin/Debug/net10.0/Ders01.GunlukHarcamaTakipcisi.pdb
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders01.GunlukHarcamaTakipcisi/obj/Debug/net10.0/Ders01.GunlukHarcamaTakipcisi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders01.GunlukHarcamaTakipcisi/obj/Debug/net10.0/Ders01.GunlukHarcamaTakipcisi.AssemblyInfoInputs.cache
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders01.GunlukHarcamaTakipcisi/obj/Debug/net10.0/Ders01.GunlukHarcamaTakipcisi.AssemblyInfo.cs
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders01.GunlukHarcamaTakipcisi/obj/Debug/net10.0/Ders01.GunlukHarcamaTakipcisi.csproj.CoreCompileInputs.cache
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders01.GunlukHarcamaTakipcisi/obj/Debug/net10.0/Ders01.GunlukHarcamaTakipcisi.sourcelink.json
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders01.GunlukHarcamaTakipcisi/obj/Debug/net10.0/Ders01.GunlukHarcamaTakipcisi.dll
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders01.GunlukHarcamaTakipcisi/obj/Debug/net10.0/refint/Ders01.GunlukHarcamaTakipcisi.dll
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders01.GunlukHarcamaTakipcisi/obj/Debug/net10.0/Ders01.GunlukHarcamaTakipcisi.pdb
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders01.GunlukHarcamaTakipcisi/obj/Debug/net10.0/Ders01.GunlukHarcamaTakipcisi.genruntimeconfig.cache
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders01.GunlukHarcamaTakipcisi/obj/Debug/net10.0/ref/Ders01.GunlukHarcamaTakipcisi.dll
