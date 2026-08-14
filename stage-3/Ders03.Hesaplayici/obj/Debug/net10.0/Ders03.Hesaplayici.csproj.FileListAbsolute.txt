@@ -1,0 +1,15 @@
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders03.Hesaplayici/bin/Debug/net10.0/Ders03.Hesaplayici
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders03.Hesaplayici/bin/Debug/net10.0/Ders03.Hesaplayici.deps.json
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders03.Hesaplayici/bin/Debug/net10.0/Ders03.Hesaplayici.runtimeconfig.json
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders03.Hesaplayici/bin/Debug/net10.0/Ders03.Hesaplayici.dll
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders03.Hesaplayici/bin/Debug/net10.0/Ders03.Hesaplayici.pdb
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders03.Hesaplayici/obj/Debug/net10.0/Ders03.Hesaplayici.GeneratedMSBuildEditorConfig.editorconfig
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders03.Hesaplayici/obj/Debug/net10.0/Ders03.Hesaplayici.AssemblyInfoInputs.cache
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders03.Hesaplayici/obj/Debug/net10.0/Ders03.Hesaplayici.AssemblyInfo.cs
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders03.Hesaplayici/obj/Debug/net10.0/Ders03.Hesaplayici.csproj.CoreCompileInputs.cache
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders03.Hesaplayici/obj/Debug/net10.0/Ders03.Hesaplayici.sourcelink.json
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders03.Hesaplayici/obj/Debug/net10.0/Ders03.Hesaplayici.dll
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders03.Hesaplayici/obj/Debug/net10.0/refint/Ders03.Hesaplayici.dll
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders03.Hesaplayici/obj/Debug/net10.0/Ders03.Hesaplayici.pdb
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders03.Hesaplayici/obj/Debug/net10.0/Ders03.Hesaplayici.genruntimeconfig.cache
+/Users/poyrazavsever/Yazılım/csharp/csharp/stage-3/Ders03.Hesaplayici/obj/Debug/net10.0/ref/Ders03.Hesaplayici.dll
