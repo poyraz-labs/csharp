@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ders03.Hesaplayici")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22cb7e9c4a903a98e3693cb16dea69979d0a2791")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39815885032f10aa8a8d9b6d5a931e4f680686c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ders03.Hesaplayici")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ders03.Hesaplayici")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ders01.GunlukHarcamaTakipcisi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6817e9f3def94244ae88e9482c32a8f6d0a889a6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39815885032f10aa8a8d9b6d5a931e4f680686c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ders01.GunlukHarcamaTakipcisi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ders01.GunlukHarcamaTakipcisi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

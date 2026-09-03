@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ders03.EtkinlikMaliyetHesaplama")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2280c285a1eff47c0aba33f9cc930ce7bb61ba05")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39815885032f10aa8a8d9b6d5a931e4f680686c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ders03.EtkinlikMaliyetHesaplama")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ders03.EtkinlikMaliyetHesaplama")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
