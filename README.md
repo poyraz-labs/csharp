@@ -12,6 +12,7 @@ Bu repo, C# öğrenirken yaptığım küçük console uygulamalarını ve her de
 | Stage 2 | Karar yapıları | `if`, `else if`, `else`, `switch`, karşılaştırma operatörleri, mantıksal operatörler, erken çıkış için `return` |
 | Stage 3 | Döngüler | `while`, `do-while`, `for`, `continue`, `break`, sayaç mantığı, toplam alma, giriş doğrulama |
 | Stage 4 | Metotlar | Metot tanımlama, parametre kullanma, geriye değer döndürme, `void` metotlar, iş mantığını küçük parçalara ayırma |
+| Stage 5 | SQLite ile veri kalıcılığı | SQLite bağlantısı, tablo oluşturma, CRUD işlemleri, SQL sorguları ve katmanlı kod düzeni |
 
 ## Mini Projeler
 
@@ -27,6 +28,7 @@ Bu repo, C# öğrenirken yaptığım küçük console uygulamalarını ve her de
 | ATM Simülasyonu | `stage-3/Ders02.ATM` | Bakiye görüntüleme, para yatırma, para çekme ve işlem özeti sunar. | `do-while`, `switch`, başarılı işlem sayaçları |
 | Sayı Analiz Merkezi | `stage-3/Ders03.Hesaplayici` | 1 ile üst sınır arasındaki sayıları analiz eder ve çarpım tablosu üretir. | `for`, `%`, tek/çift ayrımı, bölünebilme kontrolü |
 | ATM With Methods | `stage-4/Ders01.ATMWithMethods` | ATM simülasyonunu metotlara bölerek daha okunabilir hale getirir. | `static` metotlar, parametreler, dönüş değerleri, sorumluluk ayırma |
+| Kişisel Harcama Takip Uygulaması | `stage-5/Ders01.HarcamaTakip` | Harcamaları SQLite veritabanına kaydeder, listeler ve analiz eder. | `Microsoft.Data.Sqlite`, SQL, CRUD, sınıflar, metotlar |
 
 ## Çalıştırma
 
@@ -34,6 +36,12 @@ Her mini proje ayrı bir console uygulamasıdır. Örneğin:
 
 ```bash
 dotnet run --project stage-4/Ders01.ATMWithMethods/Ders01.ATMWithMethods.csproj
+```
+
+Stage 5 projesini çalıştırmak için:
+
+```bash
+dotnet run --project stage-5/Ders01.HarcamaTakip/Ders01.HarcamaTakip.csproj
 ```
 
 Başka bir dersi çalıştırmak için proje yolunu değiştirmen yeterli:
